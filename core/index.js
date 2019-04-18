@@ -89,12 +89,14 @@ var logTime=function(_startDate,title){
  * @param {结束查找坐标:x1} x1 
  * @param {结束查找坐标:y2} y2 
  */
-const find = function ({source, compare, x, y, x1, y1,onCompleted}) {
+const find = function ({source,scale, compare, x, y, x1, y1,onCompleted}) {
 
 
-    let scaleDiv=2;
-    let scaleParams=1/scaleDiv;
+    scale = scale || 1;
+    let scaleDiv=1/scale;
+    let scaleParams=scale;
     let _startDate = new Date();
+    let _startDate2 = new Date();
     Jimp.read(source, function (err, sourceImage) {
 
 
@@ -286,8 +288,8 @@ const find = function ({source, compare, x, y, x1, y1,onCompleted}) {
 
                                     total = count;
                                     lastPoints = {
-                                        x: i,
-                                        y: j
+                                        x: i*scaleDiv,
+                                        y: j*scaleDiv
                                     };
                                 }
                                 //console.log('第一个相似坐标:'+count,{x:i,y:j});
@@ -333,9 +335,9 @@ const find = function ({source, compare, x, y, x1, y1,onCompleted}) {
                 console.log({
                     title:'对比',
                     result: result,
-                    startDate: _startDate,
+                    startDate: _startDate2,
                     endDate: _endDate,
-                    total: _endDate.getTime() - _startDate.getTime(),
+                    total: _endDate.getTime() - _startDate2.getTime(),
                 });
                 if(onCompleted){
                     onCompleted(result);
