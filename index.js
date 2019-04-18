@@ -9,14 +9,14 @@ core.read(sourcePath,function(image){
 
     console.log(image);
     
-    core.crop(image,10,10,100,100);
+    core.crop(image,30,34,100,100);
 
     
     core.write(image,'assets/compare.jpeg',function(res){
 
 
     })
-})*/
+})
 
-
+*/
 core.find(sourcePath,comparePath);

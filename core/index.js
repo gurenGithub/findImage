@@ -174,7 +174,7 @@ const find = function (source, compare, x, y, x1, y1) {
 
 
             var count = 0;
-
+            var total =0;
             var lastPoints = {};
 
 
@@ -194,7 +194,7 @@ const find = function (source, compare, x, y, x1, y1) {
                         continue;
                     }
 
-                    var total = compareP.width * compareP.height;
+                     total = compareP.width * compareP.height;
                     count = 0;
                     for (var ci = startX; ci < compareP.width; ci++) {
 
@@ -238,7 +238,8 @@ const find = function (source, compare, x, y, x1, y1) {
 
                     //console.log(total, count);
                     if (count >= total) {
-
+                      
+                        total=count;
                         lastPoints = {
                             x: i,
                             y: j
@@ -249,7 +250,7 @@ const find = function (source, compare, x, y, x1, y1) {
 
             }
 
-            console.log('第一个相似坐标:' + count, lastPoints);
+            console.log('相似:' + total, lastPoints);
             var endDate = new Date();
             console.log(endDate, endDate.getTime() - startDate.getTime());
             // console.log(sourcePoints, sourcePoints);
