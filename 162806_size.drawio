@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T02:42:00.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="EAMS6vpXzWvlRFZJuezj" version="13.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T02:42:49.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="k2dLFwQoRcBMkLLgMLjU" version="13.5.4" type="github">
   <diagram id="0yRMfeX40Hqbj-yg61-Y" name="Page-1">
     <mxGraphModel dx="1186" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rTJIKPppSr7lGijxNa6m-4" value="飘窗" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rTJIKPppSr7lGijxNa6m-4" value="窗户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="120" width="390" height="310" as="geometry" />
         </mxCell>
         <mxCell id="rTJIKPppSr7lGijxNa6m-5" value="墙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="rTJIKPppSr7lGijxNa6m-13" value="&lt;font style=&quot;font-size: 19px&quot;&gt;主卧飘窗&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="20" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RFh4BoMU0rw1ZJmK0h0Q-1" value="飘窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RFh4BoMU0rw1ZJmK0h0Q-1" value="窗户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="650" width="356" height="310" as="geometry" />
         </mxCell>
         <mxCell id="RFh4BoMU0rw1ZJmK0h0Q-2" value="墙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="RFh4BoMU0rw1ZJmK0h0Q-8" value="&lt;font style=&quot;font-size: 19px&quot;&gt;儿童飘窗&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="352" y="540" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RFh4BoMU0rw1ZJmK0h0Q-9" value="飘窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RFh4BoMU0rw1ZJmK0h0Q-9" value="窗户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1150" width="310" height="310" as="geometry" />
         </mxCell>
         <mxCell id="RFh4BoMU0rw1ZJmK0h0Q-10" value="墙" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
