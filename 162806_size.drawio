@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T02:31:44.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="VW1WOwQtMRv0gZcPJxAN" version="13.5.4" type="github"><diagram id="0yRMfeX40Hqbj-yg61-Y" name="Page-1">7VdNj5swEP01PkaKMRA4QpKmH2pVKSv17IID7hpMjbOQ/vraYAKErJJIu9k9LBfsN2N7/N54MAAts3ojcJF+5zFhwJrHNUArYFkQeq56aeTQIgvLboFE0Ng49cCW/iMGnBt0T2NSjhwl50zSYgxGPM9JJEcYFoJXY7cdZ+NVC5yQCbCNMJuiv2gs0xb1rEWPfyY0SbuVoeu3lgx3zmYnZYpjXg0gtAZoKTiXbSurl4Rp8jpe2nGfnrEeAxMkl9cMEA9fv3z7WRRbsWAb+qf+gd1sZsR4wmxvNgzWPggQ8D2wXoAgAL7ZaSkPHSeC7/OY6GnnAIVVSiXZFjjS1kplgcJSmTHVg6o5DdNE/kSEJPUAMmFvCM+IFAflYqxHCk0Owa5f9Yog32DpQA3UZRE2WZAc5+6JUg3D1Q28OWd4c0BgAd9/c7ogukzXfdly3zFbLnxvbPkTtqBvT0+hqieFbsY0I3lJea74iKlQRbBprypSyssMYkYT7R0pBolQQMFpLpstOSFwVgrRXFJVEQPjKrmeo1RT0jx50J3VzFMIw78JC3H0mDQaLjnjogkV7ZrnFSqBd2UhsF9Lqy4JBmLZjvOh1ZkydEar+0oFP6S6sga+uVTWtAS61u1alXyv479WLEZ28iqpMhrHOoZ7aONf/jzZd/08QTT9mlsu08ztuNrmUCH37553hlnZXO4D5QD9ou6NqpU077UNQg+Eob4ceCsQLPq7qNp1fx1tF1PBt+uZ0afJofiVY51LKfgj6UTKea4l3FHGTqDJ4X1W/3OJNb7AvEAGoJPTaU8z4JgVwxSwbs8A1e1/SBrb4LcOrf8D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T02:31:57.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Lb5YY-xtRmB0KdbNqCTD" version="13.5.4" type="github">
+  <diagram id="0yRMfeX40Hqbj-yg61-Y" name="Page-1">
+    <mxGraphModel dx="1186" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rTJIKPppSr7lGijxNa6m-4" value="飘窗" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="120" width="390" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rTJIKPppSr7lGijxNa6m-5" value="墙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="120" width="90" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rTJIKPppSr7lGijxNa6m-6" value="墙" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="120" width="90" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rTJIKPppSr7lGijxNa6m-9" value="1947" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" parent="1" vertex="1">
+          <mxGeometry x="220" y="80" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rTJIKPppSr7lGijxNa6m-10" value="455" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" parent="1" vertex="1">
+          <mxGeometry x="130" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rTJIKPppSr7lGijxNa6m-11" value="455" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff" parent="1" vertex="1">
+          <mxGeometry x="610" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rTJIKPppSr7lGijxNa6m-12" value="1625" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=left;points=[];verticalAlign=middle;labelBackgroundColor=#ffffff" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="40" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rTJIKPppSr7lGijxNa6m-13" value="&lt;font style=&quot;font-size: 19px&quot;&gt;主卧飘窗&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
